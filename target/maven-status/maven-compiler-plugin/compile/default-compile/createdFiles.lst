@@ -1,0 +1,15 @@
+com\TSF\SpringBoot\model\repository\studentRepository.class
+com\TSF\SpringBoot\model\controller\courseController.class
+com\TSF\SpringBoot\model\repository\courseRepository.class
+com\TSF\SpringBoot\model\Faculty.class
+com\TSF\SpringBoot\model\controller\studentController.class
+com\TSF\SpringBoot\model\dao\courseDAO.class
+com\TSF\SpringBoot\model\dao\studentDAO.class
+com\TSF\SpringBoot\model\repository\facultyRepository.class
+com\TSF\SpringBoot\courseApplication.class
+com\TSF\SpringBoot\model\controller\facultyController.class
+com\TSF\SpringBoot\model\dao\facultyDAO.class
+com\TSF\SpringBoot\model\Course.class
+com\TSF\SpringBoot\model\Student.class
+com\TSF\SpringBoot\studentApplication.class
+com\TSF\SpringBoot\facultyApplication.class
